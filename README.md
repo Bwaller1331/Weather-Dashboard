@@ -22,18 +22,14 @@ https://bwaller1331.github.io/Weather-Dashboard/
 ***
 ### Home Page
 ***
-![](assets\imgs\weatherDashboard.png)
+![screenshot of homepage](assets\imgs\weatherDashboard.png)
 
 ### City Weather Page
 ***
-![](assets\imgs\weatherDashboard_inAction.png)
+![screenshot of page in action](assets\imgs\weatherDashboard_inAction.png)
 
-
-## Information
+## Contribution
 ***
-#### Site was built using
-#### Javascript
-#### Html
-#### Css
-#### Jquery
-#### Moment.js
+
+Made by Brandon Waller
+
