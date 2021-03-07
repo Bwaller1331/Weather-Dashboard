@@ -22,11 +22,11 @@ https://bwaller1331.github.io/Weather-Dashboard/
 ***
 ### Home Page
 ***
-![screenshot of homepage](assets\imgs\weatherDashboard.png)
+![](assets/imgs/weatherDashboard.png)
 
 ### City Weather Page
 ***
-![screenshot of page in action](assets\imgs\weatherDashboard_inAction.png)
+![](assets/imgs/weatherDashboard_inAction.png)
 
 ## Contribution
 ***
